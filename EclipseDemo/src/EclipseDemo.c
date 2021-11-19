@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : Demo.c
+ Name        : EclipseDemo.c
  Author      : Sai
  Version     :
  Copyright   : Your copyright notice
